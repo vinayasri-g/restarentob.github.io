@@ -1,0 +1,69 @@
+.imaggi{height:80px;
+    width:190px;}
+    .imaggi1{height: 200px;
+    width: 130px;}
+    .buttonstyle{background-color:white;
+    color:black;
+    border-radius: 5px;
+    width:120px;
+    height:30px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    }
+    .buttonstyle:hover{background-color:cadetblue;
+    color:white;}
+    #go{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color:black;
+    }
+    #go:hover{background-color:whitte;
+    color:greenyellow;}
+    .bgimg{background-image: url("https://img.freepik.com/free-photo/happy-woman-photographing-dessert-with-cell-phone-while-being-with-her-friends-cafe_637285-7888.jpg?size=626&ext=jpg&ga=GA1.2.761211204.1668081255&semt=ais");
+    background-size: cover;
+    height: 80vh;}
+    .headstyle{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(86, 110, 86);
+    padding-top: 170px;}
+    .carding{border-style: groove;
+    border-color: brown;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 5px;
+    padding:0px;}
+    .imaggi2{height: 100px;
+    width:130px}
+    .headline2{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left:15px;
+    text-align: center;
+
+
+    }
+    .paraline2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:28px;
+        color: brown;
+        font-size: 16px;
+    }
+    .row{background-image:radial-gradient(rgb(68, 247, 68),rgb(88, 220, 222));
+    padding-left: 60px;}
+    body{background-image: radial-gradient(green,rgb(252, 252, 132));}
+    .headline1{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color:coral;
+    margin-top: 9px;}
+    .paraline3{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color:blueviolet;
+    }
+    .navbar{background-color: rgb(84, 162, 7);}
+
+    
